@@ -4,7 +4,7 @@ latharajan182001@gmail.com
 
 PROFILE SUMMARY
 
-An enthusiastic engineering fresher who is a self-starter and capable to use technical skills for the betterment of the organization. A course completed in NPTEL has enhanced my proficiency in developing web applications and looking forward to work in a competitive environment that enhances overall learning.
+An enthusiastic engineering fresher who is a self-starter and looking forward to work in a competitive environment that enhances overall learning.
 
 EDUCATION 📚
 
