@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+LOKESWARI.K
+latharajan182001@gmail.com
 
-You can use the [editor on GitHub](https://github.com/Lokeswari18/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+PROFILE SUMMARY
 
-### Markdown
+An enthusiastic engineering fresher who is a self-starter and capable to use technical skills for the betterment of the organization. A course completed in C programming has enhanced my proficiency in developing web applications and looking forward to work in a competitive environment that enhances overall learning.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+EDUCATION
 
-```markdown
-Syntax highlighted code block
+✓ B.E from Kamaraj COLLEGE in 2018-2022 (CGPA 8.32/10)
+✓ 12th from Cambridge matriculation School in 2018 with 91%
+✓ 10th from P.L.W.A.hr.sec.school in 2016 with 95%
 
-# Header 1
-## Header 2
-### Header 3
+TECHNICAL SKILLSET
 
-- Bulleted
-- List
+✓ Database: SQL Server
+✓ Applications: Frontpage, MS Office
+✓ Servers: Apache,Tomcat
+✓ Languages: SQL, C,c++
 
-1. Numbered
-2. List
+KEY PROJECTS
 
-**Bold** and _Italic_ and `Code` text
+Crime Reporting System
+Student Information system
 
-[Link](url) and ![Image](src)
-```
+COURSES COMPLETED
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+✓ programming in c
+✓ Java Programming & Data Structures
+✓ Programming in c++
+✓ Software Quality Testing
 
-### Jekyll Themes
+PERSONAL DETAILS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lokeswari18/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Date of Birth: 18-06-2001
 
-### Support or Contact
+Languages Known: Tamil And English
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Gender: Female
+
+Nationality: Indian
