@@ -19,10 +19,15 @@ TECHNICAL SKILLSET ♦
 ✓ Servers: Apache,Tomcat
 ✓ Languages: SQL, C,c++
 
+SKILLS 💫
+ ◇Leadership
+ ◇Teamwork
+ ◇communication 
+
 KEY PROJECTS 💻 
 
-Crime Reporting System
-Home Automation system in IOT
+●Crime Reporting System
+●Home Automation system in IOT
 
 COURSES COMPLETED 🎗
 
@@ -31,7 +36,7 @@ COURSES COMPLETED 🎗
 ✓ Programming in c++
 ✓ Software Quality Testing
 
-ACHIEVEMENTS ✨
+CERTIFICATIONS✨
 
 ✓ completed C in NPTEL
 ✓ Selected for internship as a campus ambassador in G.Kgroup of company
